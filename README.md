@@ -1,19 +1,12 @@
 # Wabanex
 
-To start your Phoenix server:
+Gerencie e acompanhe seus treinos na academia
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+## API em GraphQL
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Para iniciar o servidor:
+ * Instalar as dependências mix deps.get
+ * Criar o banco de dados mix ecto.setup
+ * Start Phoenix mix phx.server
+ * Endpoint localhost:4000
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
